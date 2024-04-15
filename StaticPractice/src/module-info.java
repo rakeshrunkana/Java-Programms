@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author rakesh
+ *
+ */
+module StaticPractice {
+}
