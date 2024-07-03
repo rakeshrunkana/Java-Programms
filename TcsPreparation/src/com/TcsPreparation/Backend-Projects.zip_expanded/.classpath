@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Backend-Projects/chatserver"/>
+	<classpathentry kind="src" path="Backend-Projects/feereport/src"/>
+	<classpathentry kind="src" path="Backend-Projects/JApps Project/JApps/src"/>
+	<classpathentry kind="src" path="Backend-Projects/Library/src"/>
+	<classpathentry kind="lib" path="Backend-Projects/feereport/bin/FeeReportProject.jar"/>
+	<classpathentry kind="lib" path="Backend-Projects/feereport/jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="Backend-Projects/feereport/jgoodies-common-1.8.0.jar"/>
+	<classpathentry kind="lib" path="Backend-Projects/feereport/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="Backend-Projects/feereport/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="Backend-Projects/JApps Project/JApps.jar"/>
+	<classpathentry kind="lib" path="Backend-Projects/Library/LibraryJTP.jar"/>
+	<classpathentry kind="output" path="Backend-Projects/JApps Project/JApps/bin"/>
+</classpath>

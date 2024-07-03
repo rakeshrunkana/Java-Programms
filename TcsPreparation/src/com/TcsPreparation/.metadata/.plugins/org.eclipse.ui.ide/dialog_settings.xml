@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\rakesh\Downloads\e-commerce backend"/>
+			<item value="C:\Users\rakesh\Downloads\ABCTravels source code\ABCTravels"/>
+			<item value="C:\Users\rakesh\Downloads\ABCTravels source code"/>
+			<item value="C:\Users\rakesh\OneDrive\Desktop\ABCTravels"/>
+			<item value="C:\Users\rakesh\Downloads\Java-Project---Bus-Reservation-System--6c27ab13b9c9f6c34649fa2dbbc877a2d8baa7f8"/>
+			<item value="C:\Users\rakesh\Downloads\JAVA-NetBeans-Banking-Management-System"/>
+			<item value="C:\Users\rakesh\OneDrive\Desktop\Bus-Ticketing-System-Java-Jsp-project-master"/>
+			<item value="C:\Users\rakesh\OneDrive\Desktop\Banking-System-in-Core-Java-master"/>
+			<item value="C:\Users\rakesh\OneDrive\Desktop\Airline-reservation-system-java-master"/>
+			<item value="C:\Users\rakesh\eclipse-workspace\jdbcdemo"/>
+			<item value="C:\Users\rakesh\Downloads\KLM.zip"/>
+			<item value="C:\Users\rakesh\OneDrive\Desktop\Backend-Projects.zip"/>
+			<item value="C:\Users\rakesh\OneDrive\Desktop\Java-Practise"/>
+			<item value="C:\Users\rakesh\Downloads\ABCTravels"/>
+			<item value="C:\Users\rakesh\Downloads\Source_code_Banking_System"/>
+			<item value="C:\Users\rakesh\Downloads\OnlineTest-Project"/>
+			<item value="C:\Users\rakesh\Downloads\java-projects"/>
+		</list>
+	</section>
+</section>

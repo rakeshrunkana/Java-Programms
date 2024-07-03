@@ -50,7 +50,7 @@ public class Main {
         }
     }
     private static void initializeRoutes() {
-        routes.add(new Route(1, "Nellore", "Hyderabad", LocalDate.parse("2024-01-20", DateTimeFormatter.ISO_LOCAL_DATE), 1000, 40));
+        routes.add(new Route(1, "Vizag", "Hyderabad", LocalDate.parse("2024-01-20", DateTimeFormatter.ISO_LOCAL_DATE), 1000, 40));
         routes.add(new Route(2, "Hyderabad", "Goa", LocalDate.parse("2024-01-19", DateTimeFormatter.ISO_LOCAL_DATE), 1500, 40));
         // ... add more routes as needed
     }
@@ -85,7 +85,7 @@ public class Main {
                 journeyService.reScheduleJourney();
                 break;
             case 5:
-                System.out.println("Exiting...");
+                System.out.println("Thank you for using ABC Travels...");
                 running = false;
                 break;
             default:

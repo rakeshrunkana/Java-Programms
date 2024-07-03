@@ -1,0 +1,39 @@
+package com.TcsPreparation;
+
+import java.util.Scanner;
+
+public class TcsQuestion {
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+
+		// Number of subjects
+		final int NUM_SUBJECTS = 5;
+
+		// Array to hold marks for each subject
+		int[] marks = new int[NUM_SUBJECTS];
+
+		// Input marks for each subject
+		for (int i = 0; i < NUM_SUBJECTS; i++) {
+			while (true) {
+				System.out.print("Enter marks for subject " + (i + 1) + " (between 40 and 90): ");
+				int mark = scanner.nextInt();
+
+				if (mark >= 40 && mark <= 90) {
+					marks[i] = mark;
+					break;
+				} else {
+					System.out.println("Invalid input. Please enter marks between 40 and 90.");
+				}
+			}
+		}
+
+		// Display the marks for each subject
+		System.out.println("\nSemester Marks:");
+		for (int i = 0; i < NUM_SUBJECTS; i++) {
+			System.out.println("Subject " + (i + 1) + ": " + marks[i]);
+		}
+
+		scanner.close();
+	}
+}
