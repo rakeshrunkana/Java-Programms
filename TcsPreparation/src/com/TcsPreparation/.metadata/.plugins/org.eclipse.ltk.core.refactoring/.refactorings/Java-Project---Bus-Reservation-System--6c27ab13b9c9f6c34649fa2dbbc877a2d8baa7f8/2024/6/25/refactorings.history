@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring accessors="true" comment="Delete element from project &apos;Java-Project---Bus-Reservation-System--6c27ab13b9c9f6c34649fa2dbbc877a2d8baa7f8&apos;&#x0D;&#x0A;- Original project: &apos;Java-Project---Bus-Reservation-System--6c27ab13b9c9f6c34649fa2dbbc877a2d8baa7f8&apos;&#x0D;&#x0A;- Original element: &apos;Java-Project---Bus-Reservation-System--6c27ab13b9c9f6c34649fa2dbbc877a2d8baa7f8/Java-Project---Bus-Reservation-System--6c27ab13b9c9f6c34649fa2dbbc877a2d8baa7f8/Bus Reservation/src&apos;" description="Delete element" element1="/Java-Project---Bus-Reservation-System--6c27ab13b9c9f6c34649fa2dbbc877a2d8baa7f8\/Bus Reservation\/src" elements="1" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1718572549446" subPackages="false" version="1.0"/>
-</session>
