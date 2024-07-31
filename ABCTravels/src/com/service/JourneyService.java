@@ -1,6 +1,7 @@
 package com.service;
 //Manages journey-related operations like planning a journey, generating bills, and rescheduling journeys. It leverages the Route and Order classes to facilitate these operations.
 import com.model.Journey;
+
 import com.model.Order;
 import com.model.Route;
 import java.time.LocalDate;
@@ -9,6 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 import java.time.DayOfWeek;
+
 
 public class JourneyService {
     private List<Route> routes;
